@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+.timer {
+  font-family: Roboto Mono, sans-serif;
+  display: flex;
+  flex-direction: row;
+}
+
+.field {
+  font-size: 40px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 10;
+  margin: 5;
+}
+.label {
+  font-size: 15px;
+}
+
+// .flatpickr-input {
+//   // display: flex;
+//   width: 250px;
+//   height: 40px;
+// }
+// .button {
+//   background-color: #4caf50; /* Green */
+//   border: none;
+//   color: white;
+//   padding: 15px 32px;
+//   text-align: center;
+//   text-decoration: none;
+//   display: inline-block;
+//   font-size: 16px;
+// }
